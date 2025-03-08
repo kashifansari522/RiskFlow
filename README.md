@@ -1,2 +1,2 @@
 # RiskFlow
-RiskFlow is a GRC Organization 
+AI-Powered GRC Platform.
